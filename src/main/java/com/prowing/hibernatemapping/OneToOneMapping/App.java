@@ -1,9 +1,6 @@
-package com.prowing.hibernateOneToOne.OneToOneMapping;
+package com.prowing.hibernatemapping.OneToOneMapping;
 
-/**
- * Hello world!
- *
- */
+
 public class App 
 {
     public static void main( String[] args )

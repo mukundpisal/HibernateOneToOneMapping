@@ -1,4 +1,4 @@
-package com.prowing.hibernateOneToOne.OneToOneMapping;
+package com.prowing.hibernatemapping.OneToOneMapping;
 
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;

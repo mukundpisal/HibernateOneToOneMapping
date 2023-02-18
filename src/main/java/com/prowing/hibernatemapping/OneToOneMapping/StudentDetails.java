@@ -1,4 +1,4 @@
-package com.prowing.hibernateOneToOne.OneToOneMapping;
+package com.prowing.hibernatemapping.OneToOneMapping;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
