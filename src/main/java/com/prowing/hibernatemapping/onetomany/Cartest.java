@@ -47,6 +47,8 @@ public class Cartest {
 		tnx.commit();
 		System.out.println(carset);
 
+		
+		System.out.println(" Data stored succesfully");
 	}
 
 }
